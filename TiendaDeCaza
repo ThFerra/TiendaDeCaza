@@ -5,11 +5,15 @@
 #      . areas de caza(cercana o lejana).
 #      . salir.
 
+#registrarse:
+Nombre de usuario = 2 letras iniciales de tu nombre(mayuscula), un punto y tu rut sin punto y con guión, ej: JO.22143089-0
+contraseña = limite de 8 espacios, ej: pepito11
+
 #Compra de articulos:
 #se divide en compra de: armas (arcos, pistolas, rifles, etc...) - Municion (De las armas ya mencionadas) - Trampas
 #inventario de: 
 #-Armas, municion, trampas
 #-Quitar-añadir articulos
 #areas de caza:
-#-Si tiene vehiculo: mostrar areas cercanas y lejanas (Mostrar ademas animales de las areas)
-#-Sino tiene vehiculo: Mostrar solo areas cercanas (Mostrar ademas animales de las areas)
+#-Si tiene vehiculo: mostrar areas cercanas y lejanas(Mostrar ademas animales de las areas).
+#-Sino tiene vehiculo: Mostrar solo areas cercanas(Mostrar ademas animales de las areas).
