@@ -1,1 +1,15 @@
+#Tienda para articulos de caza.
+#iniciar sesión y registrase.
+#menu: . compra de articulos.
+#      . inventario.
+#      . areas de caza(cercana o lejana).
+#      . salir.
 
+#Compra de articulos:
+#se divide en compra de: armas (arcos, pistolas, rifles, etc...) - Municion (De las armas ya mencionadas) - Trampas
+#inventario de: 
+#-Armas, municion, trampas
+#-Quitar-añadir articulos
+#areas de caza:
+#-Si tiene vehiculo: mostrar areas cercanas y lejanas (Mostrar ademas animales de las areas)
+#-Sino tiene vehiculo: Mostrar solo areas cercanas (Mostrar ademas animales de las areas)
