@@ -6,7 +6,7 @@
 #      . salir.
 
 #registrarse:
-Nombre de usuario = 2 letras iniciales de tu nombre(mayuscula), un punto y tu rut sin punto y con guión, ej: JO.22143089-0
+Nombre de usuario = 2 letras iniciales de tu nombre(mayuscula), un punto y tu rut sin punto y sin guión, ej: JO.221430890
 contraseña = limite de 8 espacios, ej: pepito11
 
 #Compra de articulos:
