@@ -13,5 +13,6 @@ print("""--------CACERÍA GENERICA--------
 if OpUsu==1:
   print("Usted ha seleccionado registrarse en el programa de la 'tienda de cacería generica'.")
   print()
-  print("Nombre de usuario(Solo de puede):")
+  print("Nombre de usuario(use su primera letra de su nombre más su rut sin punto y guión):")
+  Nom=input(">> ")
   
