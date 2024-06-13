@@ -1,0 +1,9 @@
+Arcos=100000
+Pistolas=750000
+Rifles=1049000
+MunArcos=5500
+MunPistolas=12000
+MunRifles=20000
+TCMA=CanMunArcos*MunArcos
+TCMP=CanMunPistolas*MunPistolas
+TCMR=CanMunRifles*MunRifles
