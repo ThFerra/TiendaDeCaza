@@ -49,3 +49,17 @@ if Op1==1:
             print("A selecionado 'Municion de Arcos [x1]', ingrese la cantidad de municion que desea comprar:")
             CanMunRifles=int(input(">> "))
             print("Usted a selecionado un cantidad de ",CanMunRifles," Municion, con un total de $",TCMR)
+    elif Op2==3:
+        print("Usted a seleccionado Trampas, a continuacion estan las Trampas disponibles:")
+        print("""
+1.-Trampa animales aereos [No letal] $7.850
+2.-Trampa animales terrestres [No letal] $9.990""")
+        Op3=int(input(">> "))
+        if Op3==1:
+            print("A selecionado 'Trampa animales aereos [No letal]', ingrese la cantidad de municion que desea comprar:")
+            CanTAA=int(input(">>"))
+            TCTAA=CanTAA*TAA
+        elif Op3==2:
+            print("A selecionado 'Trampa animales terrestres [No letal]', ingrese la cantidad de municion que desea comprar:")
+            CanTAT=int(input(">>"))
+            TCTAT=CanTAT*TAT
