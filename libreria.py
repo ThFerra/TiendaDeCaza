@@ -69,12 +69,6 @@ def Trampa_Ae(CanTAA):
 def Trampa_Te(CanTAT):
     return CanTAT*9990
 
-#Inventario
-#Contador para cada cosa, mensaje de error cuando compre mas de lo que hay, y entonces muestre lo disponible, inventario como lista que se divida entre las categorias de compra.
-#Verificar que la cantidad a comprar no sea mayor a la cantidad del inventario
-#Armas: Arcos, Rifles, Pistolas
-#Mun: MunArcos, MunRifles, MunPistolas
-#Trampas: Terrestres, Aereas
 #ARMAS
 InvArc=10
 InvRif=10
@@ -88,3 +82,8 @@ InvTT=15
 InvTA=15
 
 Inventario=[InvArc,InvRif,InvPis,InvMunArc,InvMunRif,InvMunPis,InvTT,InvTA]
+
+ZonaN=["Yeco","Pato Juarjual","Codorniz","Tórtola cordillerana","Tórtola","Paloma de alas blancas","Diuca","Faisán"]
+ZonaC=["Perdiz chilena","Yeco","Pato criollo","Pato real","Pato jergón grande","Pato jergón chico","Codorniz","Tórtola"]
+ZonaS=["Perdiz chilena","Pato real","Pato jergón grande","Pato jergón chico","Pato colorado","Codorniz","Tagua","Zorzal"]
+ZonaAus=["Yeco","Caiquén","Pato jergón grande","Pato jergón chico","Traro","Codorniz","Zorzal","Jilguero"]
